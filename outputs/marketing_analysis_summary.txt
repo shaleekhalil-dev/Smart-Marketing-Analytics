@@ -1,0 +1,14 @@
+
+    Marketing Sentiment & ROI Strategic Summary
+    ==========================================
+    Top Performing Channel (by ROAS): Direct Access
+    Highest Customer Satisfaction: Google Search
+    
+    Channel Detailed Metrics:
+                         ROAS    Rating  Positive_Percentage
+Channel                                                 
+Direct Access    3.510323  2.838710            33.870968
+Email Marketing  3.267403  2.831169            32.467532
+Google Search    2.814756  3.109756            37.804878
+Social Media     3.062911  2.936709            34.177215
+    

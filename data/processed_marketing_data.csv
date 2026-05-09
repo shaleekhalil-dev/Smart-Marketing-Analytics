@@ -1,0 +1,301 @@
+CustomerID,Channel,Review_Text,Ad_Spend,Purchase_Value,Rating,Sentiment,ROAS
+1,Google Search,"Excellent product, exceeded my expectations!",361.3,250.93,4,Positive,0.69
+2,Google Search,"I regret buying this, it doesn't work as described.",135.06,932.21,2,Negative,6.9
+3,Social Media,"I regret buying this, it doesn't work as described.",411.35,745.61,4,Negative,1.81
+4,Direct Access,The interface is confusing but the product is okay.,281.64,239.33,4,Negative,0.85
+5,Social Media,"Value for money, highly recommended.",390.78,751.27,1,Positive,1.92
+6,Google Search,"Value for money, highly recommended.",130.0,267.77,3,Positive,2.06
+7,Direct Access,"I regret buying this, it doesn't work as described.",87.18,846.7,1,Negative,9.71
+8,Social Media,The interface is confusing but the product is okay.,266.93,276.98,4,Negative,1.04
+9,Google Search,"Average experience, could be better.",287.98,965.17,4,Neutral,3.35
+10,Google Search,Poor quality and very slow delivery.,363.34,592.84,1,Negative,1.63
+11,Social Media,"I regret buying this, it doesn't work as described.",142.14,300.58,5,Negative,2.11
+12,Google Search,"Excellent product, exceeded my expectations!",352.12,291.45,3,Positive,0.83
+13,Google Search,Amazing customer support and high quality.,406.97,665.19,4,Positive,1.63
+14,Email Marketing,"I regret buying this, it doesn't work as described.",68.78,669.95,4,Negative,9.74
+15,Social Media,"Average experience, could be better.",483.51,372.95,5,Neutral,0.77
+16,Google Search,The interface is confusing but the product is okay.,488.93,834.73,5,Negative,1.71
+17,Social Media,"I regret buying this, it doesn't work as described.",297.8,477.15,2,Negative,1.6
+18,Email Marketing,Poor quality and very slow delivery.,79.21,832.47,4,Negative,10.51
+19,Social Media,"Excellent product, exceeded my expectations!",205.36,338.69,2,Positive,1.65
+20,Email Marketing,"Excellent product, exceeded my expectations!",59.19,985.08,1,Positive,16.64
+21,Social Media,Amazing customer support and high quality.,410.38,885.07,5,Positive,2.16
+22,Direct Access,Fast shipping but the packaging was damaged.,143.57,503.67,5,Neutral,3.51
+23,Social Media,"Average experience, could be better.",114.46,401.85,3,Neutral,3.51
+24,Social Media,Poor quality and very slow delivery.,364.95,126.74,3,Negative,0.35
+25,Direct Access,Fast shipping but the packaging was damaged.,76.08,991.84,1,Neutral,13.04
+26,Direct Access,Poor quality and very slow delivery.,165.47,712.85,1,Negative,4.31
+27,Email Marketing,Fast shipping but the packaging was damaged.,279.65,270.24,2,Neutral,0.97
+28,Social Media,Poor quality and very slow delivery.,497.87,140.54,1,Negative,0.28
+29,Direct Access,Amazing customer support and high quality.,115.93,111.83,3,Positive,0.96
+30,Email Marketing,The interface is confusing but the product is okay.,252.28,695.63,1,Negative,2.76
+31,Email Marketing,"Average experience, could be better.",320.65,196.76,5,Neutral,0.61
+32,Google Search,Fast shipping but the packaging was damaged.,93.77,378.96,5,Neutral,4.04
+33,Social Media,"Value for money, highly recommended.",179.93,377.15,4,Positive,2.1
+34,Social Media,"Value for money, highly recommended.",374.36,205.73,3,Positive,0.55
+35,Email Marketing,"Excellent product, exceeded my expectations!",297.86,952.24,4,Positive,3.2
+36,Google Search,"I regret buying this, it doesn't work as described.",427.36,979.65,4,Negative,2.29
+37,Direct Access,"Average experience, could be better.",311.15,914.03,4,Neutral,2.94
+38,Email Marketing,"Value for money, highly recommended.",133.06,816.56,5,Positive,6.14
+39,Google Search,"Excellent product, exceeded my expectations!",326.98,158.89,5,Positive,0.49
+40,Google Search,Amazing customer support and high quality.,449.13,745.33,5,Positive,1.66
+41,Google Search,Fast shipping but the packaging was damaged.,282.56,510.32,4,Neutral,1.81
+42,Direct Access,"I regret buying this, it doesn't work as described.",331.76,236.34,4,Negative,0.71
+43,Google Search,Fast shipping but the packaging was damaged.,277.28,682.05,4,Neutral,2.46
+44,Email Marketing,Poor quality and very slow delivery.,459.35,126.31,5,Negative,0.27
+45,Google Search,"Value for money, highly recommended.",235.99,778.17,3,Positive,3.3
+46,Social Media,"Value for money, highly recommended.",290.96,900.76,2,Positive,3.1
+47,Email Marketing,"Average experience, could be better.",204.19,109.34,5,Neutral,0.54
+48,Email Marketing,Amazing customer support and high quality.,108.31,394.69,2,Positive,3.64
+49,Email Marketing,"I regret buying this, it doesn't work as described.",348.27,845.64,2,Negative,2.43
+50,Google Search,"Value for money, highly recommended.",471.05,201.34,4,Positive,0.43
+51,Social Media,Fast shipping but the packaging was damaged.,325.73,122.23,4,Neutral,0.38
+52,Google Search,"I regret buying this, it doesn't work as described.",429.23,832.92,4,Negative,1.94
+53,Direct Access,The interface is confusing but the product is okay.,148.06,324.01,1,Negative,2.19
+54,Google Search,"Value for money, highly recommended.",456.43,324.28,5,Positive,0.71
+55,Social Media,"Excellent product, exceeded my expectations!",54.4,242.41,5,Positive,4.46
+56,Direct Access,"Excellent product, exceeded my expectations!",151.62,348.45,2,Positive,2.3
+57,Email Marketing,The interface is confusing but the product is okay.,109.42,485.84,3,Negative,4.44
+58,Google Search,"Average experience, could be better.",458.39,332.58,5,Neutral,0.73
+59,Google Search,"I regret buying this, it doesn't work as described.",459.6,430.25,1,Negative,0.94
+60,Email Marketing,The interface is confusing but the product is okay.,311.48,414.37,3,Negative,1.33
+61,Direct Access,Amazing customer support and high quality.,89.37,399.73,5,Positive,4.47
+62,Email Marketing,"Value for money, highly recommended.",102.6,373.03,2,Positive,3.64
+63,Social Media,Poor quality and very slow delivery.,396.98,383.61,2,Negative,0.97
+64,Direct Access,Amazing customer support and high quality.,379.76,343.2,1,Positive,0.9
+65,Social Media,"Excellent product, exceeded my expectations!",89.21,910.27,4,Positive,10.2
+66,Email Marketing,Amazing customer support and high quality.,210.86,970.28,1,Positive,4.6
+67,Social Media,"Excellent product, exceeded my expectations!",397.95,907.03,2,Positive,2.28
+68,Google Search,Amazing customer support and high quality.,109.16,435.95,2,Positive,3.99
+69,Direct Access,Poor quality and very slow delivery.,292.02,683.45,2,Negative,2.34
+70,Email Marketing,The interface is confusing but the product is okay.,389.63,380.3,1,Negative,0.98
+71,Social Media,"Average experience, could be better.",172.64,828.97,4,Neutral,4.8
+72,Email Marketing,Amazing customer support and high quality.,304.93,824.3,1,Positive,2.7
+73,Direct Access,Poor quality and very slow delivery.,264.51,814.98,2,Negative,3.08
+74,Social Media,Poor quality and very slow delivery.,300.48,200.29,5,Negative,0.67
+75,Direct Access,"Value for money, highly recommended.",248.33,830.44,5,Positive,3.34
+76,Google Search,"Average experience, could be better.",362.18,801.6,2,Neutral,2.21
+77,Email Marketing,"I regret buying this, it doesn't work as described.",373.21,896.57,5,Negative,2.4
+78,Direct Access,"Excellent product, exceeded my expectations!",390.37,390.18,2,Positive,1.0
+79,Direct Access,Amazing customer support and high quality.,66.79,196.45,2,Positive,2.94
+80,Social Media,The interface is confusing but the product is okay.,355.48,245.12,3,Negative,0.69
+81,Google Search,The interface is confusing but the product is okay.,264.75,705.51,2,Negative,2.66
+82,Social Media,"Value for money, highly recommended.",95.08,742.73,4,Positive,7.81
+83,Email Marketing,"Excellent product, exceeded my expectations!",326.39,313.51,3,Positive,0.96
+84,Social Media,"Average experience, could be better.",427.06,825.15,1,Neutral,1.93
+85,Social Media,"Excellent product, exceeded my expectations!",380.25,926.47,5,Positive,2.44
+86,Social Media,Poor quality and very slow delivery.,194.7,986.16,2,Negative,5.07
+87,Google Search,"I regret buying this, it doesn't work as described.",80.53,997.34,3,Negative,12.38
+88,Social Media,"Value for money, highly recommended.",66.8,564.33,2,Positive,8.45
+89,Direct Access,Amazing customer support and high quality.,301.61,730.08,1,Positive,2.42
+90,Social Media,The interface is confusing but the product is okay.,122.38,168.9,1,Negative,1.38
+91,Social Media,"I regret buying this, it doesn't work as described.",170.55,911.03,2,Negative,5.34
+92,Email Marketing,Fast shipping but the packaging was damaged.,156.07,832.22,2,Neutral,5.33
+93,Social Media,"Excellent product, exceeded my expectations!",58.71,423.16,1,Positive,7.21
+94,Email Marketing,"Excellent product, exceeded my expectations!",118.26,978.13,1,Positive,8.27
+95,Email Marketing,The interface is confusing but the product is okay.,65.26,447.39,1,Negative,6.86
+96,Social Media,"Value for money, highly recommended.",491.83,114.59,1,Positive,0.23
+97,Direct Access,Fast shipping but the packaging was damaged.,212.22,116.81,4,Neutral,0.55
+98,Google Search,Amazing customer support and high quality.,421.46,589.73,3,Positive,1.4
+99,Social Media,Fast shipping but the packaging was damaged.,235.51,498.83,4,Neutral,2.12
+100,Direct Access,"I regret buying this, it doesn't work as described.",163.93,123.13,4,Negative,0.75
+101,Google Search,Fast shipping but the packaging was damaged.,156.52,431.47,4,Neutral,2.76
+102,Email Marketing,Poor quality and very slow delivery.,397.9,478.29,1,Negative,1.2
+103,Email Marketing,"I regret buying this, it doesn't work as described.",352.07,464.86,2,Negative,1.32
+104,Google Search,"Excellent product, exceeded my expectations!",367.85,998.27,4,Positive,2.71
+105,Email Marketing,"Excellent product, exceeded my expectations!",433.92,241.01,5,Positive,0.56
+106,Email Marketing,Poor quality and very slow delivery.,284.92,493.26,1,Negative,1.73
+107,Direct Access,Fast shipping but the packaging was damaged.,249.25,343.21,1,Neutral,1.38
+108,Social Media,"Average experience, could be better.",299.19,972.07,2,Neutral,3.25
+109,Social Media,Amazing customer support and high quality.,343.4,630.83,1,Positive,1.84
+110,Social Media,"Average experience, could be better.",404.85,733.77,1,Neutral,1.81
+111,Social Media,The interface is confusing but the product is okay.,451.52,684.94,1,Negative,1.52
+112,Email Marketing,Poor quality and very slow delivery.,189.1,779.87,3,Negative,4.12
+113,Email Marketing,Amazing customer support and high quality.,111.02,896.78,5,Positive,8.08
+114,Google Search,The interface is confusing but the product is okay.,387.92,327.75,4,Negative,0.84
+115,Google Search,Fast shipping but the packaging was damaged.,287.07,305.19,5,Neutral,1.06
+116,Direct Access,The interface is confusing but the product is okay.,403.13,642.38,2,Negative,1.59
+117,Social Media,"Value for money, highly recommended.",243.47,312.55,5,Positive,1.28
+118,Social Media,"Average experience, could be better.",427.48,757.89,3,Neutral,1.77
+119,Email Marketing,Fast shipping but the packaging was damaged.,291.81,697.6,4,Neutral,2.39
+120,Google Search,"I regret buying this, it doesn't work as described.",162.69,315.35,3,Negative,1.94
+121,Google Search,Amazing customer support and high quality.,76.5,267.32,4,Positive,3.49
+122,Direct Access,Poor quality and very slow delivery.,91.38,381.5,1,Negative,4.17
+123,Google Search,"Excellent product, exceeded my expectations!",128.39,429.7,1,Positive,3.35
+124,Email Marketing,Fast shipping but the packaging was damaged.,247.66,630.92,1,Neutral,2.55
+125,Google Search,Amazing customer support and high quality.,414.92,783.32,2,Positive,1.89
+126,Social Media,"Value for money, highly recommended.",459.68,390.12,1,Positive,0.85
+127,Google Search,"Average experience, could be better.",309.24,551.82,4,Neutral,1.78
+128,Google Search,Fast shipping but the packaging was damaged.,181.02,625.45,2,Neutral,3.46
+129,Google Search,Poor quality and very slow delivery.,343.3,339.94,2,Negative,0.99
+130,Social Media,"Average experience, could be better.",337.06,742.46,3,Neutral,2.2
+131,Email Marketing,"Excellent product, exceeded my expectations!",276.61,511.54,3,Positive,1.85
+132,Direct Access,"Average experience, could be better.",484.5,685.21,3,Neutral,1.41
+133,Direct Access,"Average experience, could be better.",413.01,552.4,2,Neutral,1.34
+134,Google Search,"Average experience, could be better.",467.83,488.25,3,Neutral,1.04
+135,Social Media,"I regret buying this, it doesn't work as described.",326.27,745.99,1,Negative,2.29
+136,Social Media,"Average experience, could be better.",491.9,111.12,4,Neutral,0.23
+137,Email Marketing,Fast shipping but the packaging was damaged.,371.74,172.26,2,Neutral,0.46
+138,Social Media,"Excellent product, exceeded my expectations!",53.9,618.74,4,Positive,11.48
+139,Email Marketing,"Value for money, highly recommended.",179.67,832.26,4,Positive,4.63
+140,Direct Access,"Excellent product, exceeded my expectations!",428.63,605.38,1,Positive,1.41
+141,Direct Access,Amazing customer support and high quality.,249.43,643.23,4,Positive,2.58
+142,Direct Access,"Excellent product, exceeded my expectations!",127.87,298.52,3,Positive,2.33
+143,Google Search,"Value for money, highly recommended.",101.54,927.59,5,Positive,9.14
+144,Email Marketing,Poor quality and very slow delivery.,409.05,284.95,1,Negative,0.7
+145,Google Search,Fast shipping but the packaging was damaged.,342.01,719.5,1,Neutral,2.1
+146,Google Search,Amazing customer support and high quality.,275.79,437.69,2,Positive,1.59
+147,Email Marketing,Amazing customer support and high quality.,178.54,290.38,5,Positive,1.63
+148,Social Media,"Average experience, could be better.",336.51,838.89,2,Neutral,2.49
+149,Email Marketing,Poor quality and very slow delivery.,215.75,203.12,2,Negative,0.94
+150,Google Search,The interface is confusing but the product is okay.,292.79,795.75,3,Negative,2.72
+151,Social Media,Poor quality and very slow delivery.,392.93,534.75,3,Negative,1.36
+152,Google Search,Fast shipping but the packaging was damaged.,427.95,954.74,5,Neutral,2.23
+153,Google Search,"Excellent product, exceeded my expectations!",97.23,594.73,4,Positive,6.12
+154,Social Media,"Excellent product, exceeded my expectations!",279.78,571.98,2,Positive,2.04
+155,Google Search,Poor quality and very slow delivery.,340.47,886.23,4,Negative,2.6
+156,Email Marketing,The interface is confusing but the product is okay.,118.88,682.05,2,Negative,5.74
+157,Social Media,The interface is confusing but the product is okay.,50.79,396.31,5,Negative,7.8
+158,Email Marketing,"Excellent product, exceeded my expectations!",485.17,109.4,3,Positive,0.23
+159,Email Marketing,Poor quality and very slow delivery.,413.54,223.39,3,Negative,0.54
+160,Google Search,Amazing customer support and high quality.,173.33,793.29,4,Positive,4.58
+161,Google Search,"Value for money, highly recommended.",175.59,849.76,2,Positive,4.84
+162,Social Media,"Excellent product, exceeded my expectations!",104.31,698.21,2,Positive,6.69
+163,Social Media,Poor quality and very slow delivery.,266.31,618.0,5,Negative,2.32
+164,Social Media,"Average experience, could be better.",469.54,917.6,3,Neutral,1.95
+165,Direct Access,Poor quality and very slow delivery.,461.72,742.94,5,Negative,1.61
+166,Google Search,Amazing customer support and high quality.,159.74,533.71,5,Positive,3.34
+167,Google Search,"I regret buying this, it doesn't work as described.",227.69,736.65,4,Negative,3.24
+168,Social Media,"Average experience, could be better.",486.61,675.44,2,Neutral,1.39
+169,Social Media,Poor quality and very slow delivery.,174.03,122.45,4,Negative,0.7
+170,Social Media,"Excellent product, exceeded my expectations!",472.03,822.77,3,Positive,1.74
+171,Email Marketing,Poor quality and very slow delivery.,396.06,771.71,1,Negative,1.95
+172,Email Marketing,"Average experience, could be better.",448.12,448.36,3,Neutral,1.0
+173,Email Marketing,Fast shipping but the packaging was damaged.,441.95,627.69,4,Neutral,1.42
+174,Social Media,Poor quality and very slow delivery.,115.91,312.72,4,Negative,2.7
+175,Email Marketing,Amazing customer support and high quality.,405.13,989.77,2,Positive,2.44
+176,Direct Access,"Excellent product, exceeded my expectations!",459.15,629.9,2,Positive,1.37
+177,Email Marketing,"Excellent product, exceeded my expectations!",427.18,279.17,3,Positive,0.65
+178,Direct Access,Poor quality and very slow delivery.,370.41,991.15,2,Negative,2.68
+179,Direct Access,"I regret buying this, it doesn't work as described.",188.32,867.79,2,Negative,4.61
+180,Direct Access,Amazing customer support and high quality.,209.2,409.71,2,Positive,1.96
+181,Email Marketing,"Value for money, highly recommended.",156.36,691.34,5,Positive,4.42
+182,Email Marketing,The interface is confusing but the product is okay.,90.42,939.75,4,Negative,10.39
+183,Email Marketing,Fast shipping but the packaging was damaged.,137.52,603.17,1,Neutral,4.39
+184,Google Search,"I regret buying this, it doesn't work as described.",327.11,655.39,5,Negative,2.0
+185,Email Marketing,"Value for money, highly recommended.",469.44,522.09,2,Positive,1.11
+186,Direct Access,Fast shipping but the packaging was damaged.,360.99,995.35,2,Neutral,2.76
+187,Social Media,"I regret buying this, it doesn't work as described.",303.28,940.13,1,Negative,3.1
+188,Google Search,"Value for money, highly recommended.",168.69,125.43,3,Positive,0.74
+189,Google Search,"I regret buying this, it doesn't work as described.",287.22,503.55,3,Negative,1.75
+190,Google Search,Amazing customer support and high quality.,411.97,405.98,1,Positive,0.99
+191,Direct Access,The interface is confusing but the product is okay.,182.78,240.19,4,Negative,1.31
+192,Google Search,The interface is confusing but the product is okay.,132.5,366.08,1,Negative,2.76
+193,Direct Access,"Value for money, highly recommended.",58.88,745.53,3,Positive,12.66
+194,Email Marketing,The interface is confusing but the product is okay.,384.49,538.31,5,Negative,1.4
+195,Google Search,"I regret buying this, it doesn't work as described.",67.23,377.47,3,Negative,5.61
+196,Direct Access,"I regret buying this, it doesn't work as described.",245.16,927.95,5,Negative,3.79
+197,Google Search,Poor quality and very slow delivery.,424.44,726.18,2,Negative,1.71
+198,Google Search,Poor quality and very slow delivery.,56.06,349.05,3,Negative,6.23
+199,Direct Access,"Average experience, could be better.",279.2,813.84,4,Neutral,2.91
+200,Direct Access,Poor quality and very slow delivery.,265.8,998.78,1,Negative,3.76
+201,Social Media,Poor quality and very slow delivery.,63.34,733.87,5,Negative,11.59
+202,Social Media,"Average experience, could be better.",55.14,527.35,5,Neutral,9.56
+203,Google Search,"I regret buying this, it doesn't work as described.",199.33,815.92,3,Negative,4.09
+204,Google Search,"I regret buying this, it doesn't work as described.",77.64,579.26,4,Negative,7.46
+205,Social Media,"Average experience, could be better.",319.18,617.17,2,Neutral,1.93
+206,Google Search,The interface is confusing but the product is okay.,448.66,969.61,2,Negative,2.16
+207,Direct Access,"Value for money, highly recommended.",235.46,948.42,3,Positive,4.03
+208,Direct Access,"Average experience, could be better.",67.22,630.34,1,Neutral,9.38
+209,Email Marketing,"Value for money, highly recommended.",86.38,306.6,5,Positive,3.55
+210,Direct Access,Fast shipping but the packaging was damaged.,86.86,545.82,5,Neutral,6.28
+211,Social Media,"Excellent product, exceeded my expectations!",414.22,492.09,1,Positive,1.19
+212,Google Search,Poor quality and very slow delivery.,410.31,397.87,2,Negative,0.97
+213,Social Media,Fast shipping but the packaging was damaged.,57.61,643.38,1,Neutral,11.17
+214,Social Media,Poor quality and very slow delivery.,437.58,185.22,3,Negative,0.42
+215,Direct Access,The interface is confusing but the product is okay.,460.09,204.18,3,Negative,0.44
+216,Google Search,Fast shipping but the packaging was damaged.,230.39,972.72,1,Neutral,4.22
+217,Email Marketing,Poor quality and very slow delivery.,179.1,957.61,1,Negative,5.35
+218,Direct Access,"Average experience, could be better.",429.37,442.0,4,Neutral,1.03
+219,Google Search,"Excellent product, exceeded my expectations!",327.67,988.82,2,Positive,3.02
+220,Google Search,Fast shipping but the packaging was damaged.,113.27,746.41,1,Neutral,6.59
+221,Email Marketing,Fast shipping but the packaging was damaged.,152.94,931.81,2,Neutral,6.09
+222,Google Search,"Excellent product, exceeded my expectations!",428.67,398.62,5,Positive,0.93
+223,Google Search,The interface is confusing but the product is okay.,429.96,858.34,3,Negative,2.0
+224,Email Marketing,Fast shipping but the packaging was damaged.,149.07,644.43,1,Neutral,4.32
+225,Google Search,"Value for money, highly recommended.",415.01,857.63,2,Positive,2.07
+226,Google Search,Poor quality and very slow delivery.,291.18,179.05,1,Negative,0.61
+227,Google Search,"Average experience, could be better.",324.69,415.45,4,Neutral,1.28
+228,Social Media,"Average experience, could be better.",285.74,486.28,2,Neutral,1.7
+229,Direct Access,The interface is confusing but the product is okay.,337.83,822.38,2,Negative,2.43
+230,Email Marketing,Poor quality and very slow delivery.,52.32,317.86,4,Negative,6.08
+231,Social Media,"Value for money, highly recommended.",61.13,103.0,3,Positive,1.68
+232,Direct Access,"Excellent product, exceeded my expectations!",360.51,449.79,1,Positive,1.25
+233,Direct Access,"Value for money, highly recommended.",127.22,929.43,5,Positive,7.31
+234,Direct Access,"Excellent product, exceeded my expectations!",362.27,237.36,2,Positive,0.66
+235,Google Search,Amazing customer support and high quality.,178.37,775.0,4,Positive,4.34
+236,Direct Access,Poor quality and very slow delivery.,74.8,952.74,4,Negative,12.74
+237,Email Marketing,Fast shipping but the packaging was damaged.,312.0,325.7,4,Neutral,1.04
+238,Social Media,The interface is confusing but the product is okay.,183.12,241.7,1,Negative,1.32
+239,Direct Access,Amazing customer support and high quality.,195.27,408.75,5,Positive,2.09
+240,Google Search,"Excellent product, exceeded my expectations!",485.15,363.09,3,Positive,0.75
+241,Social Media,"Average experience, could be better.",137.72,343.37,2,Neutral,2.49
+242,Social Media,"Excellent product, exceeded my expectations!",206.33,527.04,3,Positive,2.55
+243,Social Media,Poor quality and very slow delivery.,96.81,602.74,1,Negative,6.23
+244,Email Marketing,"Average experience, could be better.",230.8,105.71,3,Neutral,0.46
+245,Email Marketing,"Average experience, could be better.",91.78,859.11,1,Neutral,9.36
+246,Email Marketing,"Average experience, could be better.",277.18,222.43,1,Neutral,0.8
+247,Social Media,"Excellent product, exceeded my expectations!",384.17,786.2,4,Positive,2.05
+248,Social Media,"I regret buying this, it doesn't work as described.",52.38,174.19,3,Negative,3.33
+249,Email Marketing,"Excellent product, exceeded my expectations!",90.57,787.39,2,Positive,8.69
+250,Email Marketing,Fast shipping but the packaging was damaged.,75.28,427.05,1,Neutral,5.67
+251,Google Search,Fast shipping but the packaging was damaged.,447.95,317.57,2,Neutral,0.71
+252,Email Marketing,"I regret buying this, it doesn't work as described.",493.51,782.76,2,Negative,1.59
+253,Google Search,The interface is confusing but the product is okay.,284.08,150.24,5,Negative,0.53
+254,Email Marketing,The interface is confusing but the product is okay.,139.29,503.9,4,Negative,3.62
+255,Google Search,Amazing customer support and high quality.,470.01,910.74,1,Positive,1.94
+256,Email Marketing,"I regret buying this, it doesn't work as described.",344.57,916.56,5,Negative,2.66
+257,Direct Access,Fast shipping but the packaging was damaged.,406.31,521.99,3,Neutral,1.28
+258,Email Marketing,"Value for money, highly recommended.",280.05,847.94,5,Positive,3.03
+259,Google Search,Fast shipping but the packaging was damaged.,404.7,701.1,4,Neutral,1.73
+260,Direct Access,The interface is confusing but the product is okay.,200.66,335.54,3,Negative,1.67
+261,Social Media,Amazing customer support and high quality.,100.96,421.8,4,Positive,4.18
+262,Google Search,The interface is confusing but the product is okay.,457.17,934.86,3,Negative,2.04
+263,Google Search,"Value for money, highly recommended.",51.9,893.89,4,Positive,17.22
+264,Direct Access,Poor quality and very slow delivery.,83.08,961.87,4,Negative,11.58
+265,Social Media,The interface is confusing but the product is okay.,109.53,299.08,4,Negative,2.73
+266,Social Media,"I regret buying this, it doesn't work as described.",473.97,235.77,1,Negative,0.5
+267,Email Marketing,"Average experience, could be better.",186.32,210.9,2,Neutral,1.13
+268,Email Marketing,Amazing customer support and high quality.,145.99,530.17,2,Positive,3.63
+269,Email Marketing,"Average experience, could be better.",165.05,331.68,3,Neutral,2.01
+270,Social Media,"Average experience, could be better.",93.16,951.8,2,Neutral,10.22
+271,Email Marketing,"Value for money, highly recommended.",230.81,541.85,5,Positive,2.35
+272,Social Media,The interface is confusing but the product is okay.,378.96,748.8,5,Negative,1.98
+273,Direct Access,"Excellent product, exceeded my expectations!",341.69,996.61,2,Positive,2.92
+274,Email Marketing,"I regret buying this, it doesn't work as described.",162.88,491.8,4,Negative,3.02
+275,Email Marketing,The interface is confusing but the product is okay.,152.35,119.32,2,Negative,0.78
+276,Email Marketing,Poor quality and very slow delivery.,273.12,113.59,4,Negative,0.42
+277,Google Search,The interface is confusing but the product is okay.,439.14,524.53,2,Negative,1.19
+278,Social Media,"Average experience, could be better.",335.33,674.24,4,Neutral,2.01
+279,Google Search,"Value for money, highly recommended.",389.52,194.99,1,Positive,0.5
+280,Email Marketing,Fast shipping but the packaging was damaged.,246.71,297.69,1,Neutral,1.21
+281,Email Marketing,Poor quality and very slow delivery.,230.1,761.44,3,Negative,3.31
+282,Social Media,"I regret buying this, it doesn't work as described.",375.31,741.82,4,Negative,1.98
+283,Social Media,"Average experience, could be better.",217.57,964.35,5,Neutral,4.43
+284,Google Search,"Average experience, could be better.",298.67,758.2,1,Neutral,2.54
+285,Direct Access,Fast shipping but the packaging was damaged.,86.21,856.04,2,Neutral,9.93
+286,Direct Access,Amazing customer support and high quality.,317.42,634.83,4,Positive,2.0
+287,Google Search,Poor quality and very slow delivery.,176.41,713.79,4,Negative,4.05
+288,Email Marketing,"Value for money, highly recommended.",384.1,739.73,3,Positive,1.93
+289,Direct Access,"Average experience, could be better.",184.47,258.05,5,Neutral,1.4
+290,Direct Access,Poor quality and very slow delivery.,390.89,443.7,4,Negative,1.14
+291,Google Search,"Average experience, could be better.",151.86,458.9,4,Neutral,3.02
+292,Direct Access,Fast shipping but the packaging was damaged.,51.98,448.43,2,Neutral,8.63
+293,Social Media,Amazing customer support and high quality.,112.9,268.59,4,Positive,2.38
+294,Direct Access,The interface is confusing but the product is okay.,183.09,481.05,1,Negative,2.63
+295,Direct Access,"Average experience, could be better.",138.02,764.18,3,Neutral,5.54
+296,Direct Access,"I regret buying this, it doesn't work as described.",297.0,991.11,5,Negative,3.34
+297,Email Marketing,The interface is confusing but the product is okay.,144.5,161.95,5,Negative,1.12
+298,Social Media,Fast shipping but the packaging was damaged.,400.32,867.2,5,Neutral,2.17
+299,Google Search,Fast shipping but the packaging was damaged.,268.11,806.27,2,Neutral,3.01
+300,Email Marketing,"I regret buying this, it doesn't work as described.",337.7,531.4,3,Negative,1.57
